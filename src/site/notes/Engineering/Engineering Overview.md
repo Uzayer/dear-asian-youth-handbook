@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engineering/engineering-overview/"}
+{"dg-publish":true,"permalink":"/engineering/engineering-overview/","updated":"2024-10-12T19:36:26.239+06:00"}
 ---
 
 DAY is a fully remote organization, with technology underpinning our every move. The DAY engineering team's mission is to create, maintain and scale DAY's digital infrastructure to support our members and mission. We prioritize user experience, and work with an agile philosophy. We ensure that software is not only delivered effectively but also maintained at high standards throughout its lifecycle.

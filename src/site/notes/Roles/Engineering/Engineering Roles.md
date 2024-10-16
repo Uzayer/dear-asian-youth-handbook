@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roles/engineering/engineering-roles/"}
+{"dg-publish":true,"permalink":"/roles/engineering/engineering-roles/","updated":"2024-10-12T19:36:01.141+06:00"}
 ---
 
 # [[Roles/Engineering/Lead Systems Architect\|Lead Systems Architect]]

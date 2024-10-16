@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/engineering/operations/day-1-operations/"}
+{"dg-publish":true,"permalink":"/engineering/operations/day-1-operations/","updated":"2024-10-17T03:38:38.762+06:00"}
 ---
 
 # Overview
 ## Deployment Phase
-This phase transitions from planning to **actual deployment** of the software.
+This phase transitions from planning to actual deployment of the software.
 ## Responsibilities
   - Create or configure new infrastructure as required for the application.
   - Oversee the deployment process, including starting deployments and managing rollbacks if issues arise.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roles/engineering/lead-systems-architect/"}
+{"dg-publish":true,"permalink":"/roles/engineering/lead-systems-architect/","updated":"2024-10-12T19:35:46.859+06:00"}
 ---
 
 # Overview

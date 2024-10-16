@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/dear-asian-youth-handbook/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dear-asian-youth-handbook/","tags":["gardenEntry"],"updated":"2024-10-14T13:50:26.617+06:00"}
 ---
-
 
 
 | Handbook               |

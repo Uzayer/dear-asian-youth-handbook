@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/handbook/about-the-handbook/"}
+{"dg-publish":true,"permalink":"/handbook/about-the-handbook/","updated":"2024-10-12T19:36:18.702+06:00"}
 ---
 
 The handbook started as a way for the members of Dear Asian Youth (DAY) to make sharing information efficient and easy. We knew that future DAY members wouldn't be able to see emails, Discord messages, or 1:1 syncs about process changes that were happening before they joined and that eventually everyone who joined DAY later needed an easier way to onboard. The handbook was our way of ensuring that all of our company information was accessible to everyone regardless of when they became part of the team.

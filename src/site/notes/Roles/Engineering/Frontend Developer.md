@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roles/engineering/frontend-developer/"}
+{"dg-publish":true,"permalink":"/roles/engineering/frontend-developer/","updated":"2024-10-12T19:35:51.500+06:00"}
 ---
 
 # Overview

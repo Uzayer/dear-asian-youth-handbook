@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roles/engineering/dev-sec-ops-engineer/"}
+{"dg-publish":true,"permalink":"/roles/engineering/dev-sec-ops-engineer/","updated":"2024-10-12T19:36:04.447+06:00"}
 ---
 
 # Overview

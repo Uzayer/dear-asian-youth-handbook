@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engineering/operations/operations-overview/"}
+{"dg-publish":true,"permalink":"/engineering/operations/operations-overview/","updated":"2024-10-12T19:36:39.935+06:00"}
 ---
 
 ## Operations Overview
@@ -38,7 +38,7 @@ This phase is centered around planning and preparation before any actual softwar
 
 # Overview
 ## Deployment Phase
-This phase transitions from planning to **actual deployment** of the software.
+This phase transitions from planning to actual deployment of the software.
 ## Responsibilities
   - Create or configure new infrastructure as required for the application.
   - Oversee the deployment process, including starting deployments and managing rollbacks if issues arise.

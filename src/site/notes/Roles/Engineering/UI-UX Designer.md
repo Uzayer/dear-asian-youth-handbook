@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roles/engineering/ui-ux-designer/"}
+{"dg-publish":true,"permalink":"/roles/engineering/ui-ux-designer/","updated":"2024-10-12T19:35:29.856+06:00"}
 ---
 
 #todo 

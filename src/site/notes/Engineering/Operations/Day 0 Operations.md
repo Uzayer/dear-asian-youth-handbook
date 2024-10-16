@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engineering/operations/day-0-operations/"}
+{"dg-publish":true,"permalink":"/engineering/operations/day-0-operations/","updated":"2024-10-12T19:36:52.591+06:00"}
 ---
 
 # Overview
